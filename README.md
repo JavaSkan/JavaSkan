@@ -1,5 +1,5 @@
 # Hi folks 👋
-I am a 17 years old tunisian developer that is fond of programming 😁
+I am a 18 years old tunisian developer that is fond of programming 😁
 <br>
 I mainly speak french
 <br>
@@ -10,7 +10,6 @@ And almost all my repositories are private (noice)
 ![](r/cs.png)
 ![](r/java.png)
 ![](r/python.png)
-![](r/rust.png)
 
 ## Languages that i'm learning 📚
 ![](r/cpp.png)
